@@ -8,6 +8,7 @@ public class Calcs
     static double num2;
     static double ans;
           //this is a sample pgm
+    //this is a sample pgm
     public static void main(String[] args) {
     do{
     System.out.println("1 . Addition 2.Substraction 3.Multiplication 4.Division");
